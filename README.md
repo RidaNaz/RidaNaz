@@ -1,4 +1,4 @@
-<div">
+<div>
   ![Logo](/Ridalogo.svg)
 <h1 align="center">Hi 👋, I'm Rida Naz</h1>
 </div>
