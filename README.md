@@ -1,5 +1,5 @@
 <div>
-  ![Logo](/Ridalogo.svg)
+  ![Logo](/Ridalogo.png)
 <h1 align="center">Hi 👋, I'm Rida Naz</h1>
 </div>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
