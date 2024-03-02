@@ -1,9 +1,8 @@
 <div>
   <Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
   <h1 align="center">Hi 👋, I'm Rida Naz</h1>
-  </div>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
-
+  <h3 align="center">A passionate frontend developer from Pakistan.</h3>
+ </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
 - 🔭 I’m currently enrolled in **PIAIC batch-51**
