@@ -1,5 +1,5 @@
 <div>
-  <Image src="/Ridalogo.svg" alt="logo" width="50" height="50" align="left"/>
+  <Image src="/Ridalogo.svg" alt="logo" align="left"/>
   <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer)](https://git.io/typing-svg) -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer" alt="Typing SVG" /></a>
  </div>
