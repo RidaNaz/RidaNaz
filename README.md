@@ -1,8 +1,8 @@
 <div>
-  <Image src="/Ridalogo.svg" alt="logo" width="500" height="500" align="left"/>
+  <Image src="/Ridalogo.svg" alt="logo" width="50" height="50" align="left"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer" alt="Typing SVG" /></a>
  </div>
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
 - 🔭 I’m currently enrolled in **PIAIC batch-51**
