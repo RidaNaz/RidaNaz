@@ -1,7 +1,7 @@
 <div>
   <Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
-  <h1 align="center">Hi 👋, I'm Rida Naz</h1>
-  <h3 align="center">A passionate frontend developer from Pakistan.</h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer" alt="Typing SVG" /></a>
  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
