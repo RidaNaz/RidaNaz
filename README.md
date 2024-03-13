@@ -1,11 +1,12 @@
 <Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=59104e&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Passionate+Developer,+Designer,+Marketer%E2%9C%A8;%E2%9C%A8Follow+my+GitHub+a+Profile%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=831772&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Passionate+Developer,+Designer,+Marketer%E2%9C%A8;%E2%9C%A8Follow+my+GitHub+a+Profile%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://i.gifer.com/Mr3W.gif"/>
+<!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/> -->
+  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Mr3W" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently enrolled in **PIAIC batch-51**
 
