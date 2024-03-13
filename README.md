@@ -1,7 +1,6 @@
-<div>
-  <Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA1BAC&random=false&width=500&lines=Hello!+I+am+RIDA+NAZ;frontend+Web+Developer" alt="Typing SVG" /></a>
- </div>
+<Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'Rida+Naz%E2%9C%A8;%E2%9C%A8Passionate+Developer.+Designer.+Marketer%E2%9C%A8;%E2%9C%A8)](https://git.io/typing-svg)
+
   <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
@@ -24,7 +23,7 @@
 
 <h2>:label: Github Stats</h2>
 
-<div align="center>
+<div align="center">
     <a href="#"><img alt="Asharib Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
     <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
