@@ -6,7 +6,7 @@
 
 <div>
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611w27cmsv6h6hvy3z9ygnw9e9e49rv7urb91yjgna4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+	src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611w27cmsv6h6hvy3z9ygnw9e9e49rv7urb91yjgna4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently enrolled in **PIAIC batch-51**
 
