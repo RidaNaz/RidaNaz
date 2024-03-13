@@ -8,17 +8,17 @@
 <img align="right" alt="Coding" height="300" style="border-radius:20px;"
 	src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611w27cmsv6h6hvy3z9ygnw9e9e49rv7urb91yjgna4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-- 🔭 I’m currently enrolled in **PIAIC batch-51**
+- 👨‍🎓 I’m currently enrolled in **PIAIC batch-51**
 
-- 👯 I’m currently enrolled in **Governor Initiative for IT**
+- 👨‍🎓 I’m currently enrolled in **Governor Initiative for IT**
   
-- 🌱 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
+- 📚 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
 
-- 👨‍💻 All of my projects are available at [https://rida-portfolio-virid.vercel.app](https://rida-portfolio-virid.vercel.app)
+- 🔗 All of my projects are available at [https://rida-portfolio-virid.vercel.app](https://rida-portfolio-virid.vercel.app)
 
 - 💬 Ask me about **HTML, CSS ,JavaScript, TypeScript, React.js, Next.js, Tailwindcss**
 
-- 📫 How to reach me **rnaz3414@gmail.com**
+- 📧 How to reach me **rnaz3414@gmail.com**
 </div>
 
 <h3 align="left">Connect with me:</h3>
