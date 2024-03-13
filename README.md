@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
 
 <div>
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+<img align="right" alt="Coding" height="300" style="border-radius:20px;"
 	src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611w27cmsv6h6hvy3z9ygnw9e9e49rv7urb91yjgna4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently enrolled in **PIAIC batch-51**
@@ -34,5 +34,3 @@
     <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridanaz&" alt="ridanaz" /></p>
