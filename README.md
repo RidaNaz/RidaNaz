@@ -14,7 +14,7 @@
   
 - 📚 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
 
-- 🔗 All of my projects are available at [https://rida-portfolio-virid.vercel.app](https://rida-portfolio-virid.vercel.app)
+- 🔗 All of my projects are available at [https://ridanaz-portfolio.vercel.app/](https://ridanaz-portfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS ,JavaScript, TypeScript, React.js, Next.js, Tailwindcss**
 
