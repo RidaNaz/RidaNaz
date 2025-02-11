@@ -1,36 +1,69 @@
-<Image src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
+<img src="/Ridalogo.png" alt="logo" width="50" height="50" align="left"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=CFB53B&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Passionate+Developer,+Designer,+Marketer%E2%9C%A8;%E2%9C%A8Follow+my+GitHub+Profile%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=CFB53B&center=true&vCenter=true&width=700&height=55&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+Web+Apps+%26+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> </p>
-
-<div>
-<img align="right" alt="Coding" height="300" style="border-radius:20px;"
-	src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611w27cmsv6h6hvy3z9ygnw9e9e49rv7urb91yjgna4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
-- 👨‍🎓 I’m currently enrolled in **PIAIC batch-51**
-
-- 👨‍🎓 I’m currently enrolled in **Governor Initiative for IT**
-  
-- 📚 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
-
-- 🔗 All of my projects are available at [https://ridanaz-portfolio.vercel.app/](https://ridanaz-portfolio.vercel.app/)
-
-- 💬 Ask me about **HTML, CSS ,JavaScript, TypeScript, React.js, Next.js, Tailwindcss**
-
-- 📧 How to reach me **rnaz3414@gmail.com**
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ridanaz67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rida naz" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> 
 </p>
+
+---
+
+### About Me  
+<img align="right" alt="Coding" height="270" width="500" style="border-radius:10px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p5bGN3dmNlYTI0YXVpMXNkOHh1OTF2Z3d6c2wzNG4wdTB4YmI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pr1MCqanRnr0GgQOcv/giphy.gif" />
+
+- 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
+- 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
+
+- 💻 **Full Stack Developer** | **Chatbot Developer**  
+- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more  
+- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms  
+- 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
+- 📬 Reach me at: *rnaz3414@gmail.com*
+
+</br> 
+
+---
+
+### 🛠️ Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,postgres,mongodb,docker,vercel,github" />
+</div>  
+
+---
+
+### 🎯 Projects  
+- **AI Outbound Personalized Receptionist** – *Kindbody FemTech Demo*  
+- **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
+- **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
+- **Al Wahab Clothings** – *Online Marketplace E-commerce Platform*  
+- **Custom GPT AI Assistant** – *For Educational Support*  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="mailto:rnaz3414@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="35" width="90" />
+  </a>
+  <a href="https://linkedin.com/in/ridanaz67" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40" />
+  </a>
+  <a href="https://medium.com/@rnaz3414" target="_blank">
+    <img src="https://simpleicons.org/icons/medium.svg" alt="Medium" height="35" width="40" />
+  </a>
+</p>
+
+---
 
 <h2>:label: Github Stats</h2>
 
+### 📊 GitHub Stats  
 <div align="center">
-    <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
+  <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" width="900" /></a>
+  <br>
+  <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
 </div>
+
+---
+
+### <h2 align="center">💡 *“Turning ideas into reality through code and creativity.”* ✨</h2>
