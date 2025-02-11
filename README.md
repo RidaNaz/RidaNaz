@@ -31,6 +31,7 @@
 ---
 
 <h2> 🎯 Projects </h2> 
+
 - **AI Outbound Personalized Receptionist** – *Kindbody FemTech Demo*  
 - **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
 - **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
