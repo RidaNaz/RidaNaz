@@ -13,12 +13,11 @@
 
 - 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
 - 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
-
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
-- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more  
-- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms  
 - 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
 - 📬 Reach me at: *rnaz3414@gmail.com*
+- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more  
+- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms  
 
 </br> 
 
@@ -26,12 +25,12 @@
 
 ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,postgres,mongodb,docker,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,postgres,mongodb,docker" />
 </div>  
 
 ---
 
-### 🎯 Projects  
+<h2> 🎯 Projects </h2> 
 - **AI Outbound Personalized Receptionist** – *Kindbody FemTech Demo*  
 - **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
 - **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
@@ -40,7 +39,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+<h2> 🌐 Connect with Me </h2> 
 <p align="left">
   <a href="mailto:rnaz3414@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="35" width="90" />
@@ -57,7 +56,6 @@
 
 <h2>:label: Github Stats</h2>
 
-### 📊 GitHub Stats  
 <div align="center">
   <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" width="900" /></a>
   <br>
