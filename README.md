@@ -56,8 +56,9 @@
 
 <h2>:label: Github Stats</h2>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a><a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a>
+<div style="display: center;">
+  <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a>
+  <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a>
 </div>
 
 ### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
