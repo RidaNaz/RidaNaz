@@ -7,7 +7,7 @@
 ---
  
 </br>
-<img align="right" alt="Coding" height="270" width="300" src="/ezgif.com-gif-maker.gif" />
+<img align="right" alt="Coding" height="300" width="300" src="/ezgif.com-gif-maker.gif" />
 
 ### About Me 
 
