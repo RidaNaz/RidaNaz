@@ -63,4 +63,4 @@
 
 ---
 
-### <h2 align="center">💡 *“Turning ideas into reality through code and creativity.”* ✨</h2>
+### <h2 align="center">💡 *“Turning Ideas into Scalable Web & AI Solutions!”* ✨</h2>
