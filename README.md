@@ -1,13 +1,15 @@
 ![Logo](/favicon.ico)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+Web+Apps+%26+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=0e75b6&style=flat" alt="ridanaz" /> 
+  <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=CA0AB3&style=flat" alt="ridanaz" /> 
 </p>
 
 ---
+ 
+</br>
+<img align="right" alt="Coding" height="270" width="500" src="/ezgif.com-gif-maker.gif" />
 
-### About Me  
-<img align="right" alt="Coding" height="270" width="500" style="border-radius:10px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p5bGN3dmNlYTI0YXVpMXNkOHh1OTF2Z3d6c2wzNG4wdTB4YmI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pr1MCqanRnr0GgQOcv/giphy.gif" />
+### About Me 
 
 - 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
 - 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
@@ -30,7 +32,8 @@
 
 <h2> 🎯 Projects </h2> 
 
-- **AI Outbound Personalized Receptionist** – *Kindbody FemTech Demo*  
+- **Voice/Caliing Agent** – *For Exponential AI Demo*  
+- **AI Outbound Personalized Receptionist** – *For Kindbody FemTech Demo*  
 - **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
 - **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
 - **Al Wahab Clothings** – *Online Marketplace E-commerce Platform*  
@@ -55,12 +58,9 @@
 
 <h2>:label: Github Stats</h2>
 
-<div align="center">
-  <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" width="900" /></a>
-  <br>
-  <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a>
+  <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=CA0AB3&icon_color=FF1493" height="200px" width="450px" /></a>
 </div>
 
----
-
-### <h2 align="center">💡 *“Turning Ideas into Scalable Web & AI Solutions!”* ✨</h2>
+### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
