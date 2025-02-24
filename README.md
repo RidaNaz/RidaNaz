@@ -7,7 +7,7 @@
 ---
  
 </br>
-<img align="right" alt="Coding" height="300" width="300" src="/RidaProfileGIF.gif" />
+<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" />
 
 ### About Me 
 
@@ -15,9 +15,9 @@
 - 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
 - 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
-- 📬 Reach me at: *rnaz3414@gmail.com*
-- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more  
-- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms  
+- 📬 Reach me at: *rnaz3414@gmail.com* 
+- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
+- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more...
 
 </br> 
 
