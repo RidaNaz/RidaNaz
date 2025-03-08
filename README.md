@@ -64,14 +64,14 @@
 
   <!-- Streak Stats (customized to match GitHub Stats colors) -->
   <a href="#">
-    <img alt="Rida Naz GitHub Streak" src="https://streak-stats.demolab.com?user=RidaNaz&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" />
+    <img alt="Rida Naz GitHub Streak" src="https://streak-stats.demolab.com?user=RidaNaz&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&cache_seconds=86400" height="200px" width="450px" />
   </a>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <!-- Top Languages -->
   <a href="#">
-    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
+    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&cache_seconds=86400" height="200px" width="450px" />
   </a>
 </div>
 
