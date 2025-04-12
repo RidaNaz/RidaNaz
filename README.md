@@ -30,8 +30,8 @@
 
 <h2> 🎯 Projects </h2> 
 
-- **Voice/Calling Agent** – *For Exponential AI Demo*  
-- **AI Outbound Personalized Receptionist** – *For AiCogniTech Demo*  
+- **Voice/Calling Agent** – *For Orasurg Dental Clinic - Demo*  
+- **AI Outbound Personalized Receptionist** – *For AiCogniTech - Demo*  
 - **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
 - **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
 - **Al Wahab Clothings** – *Online Marketplace E-commerce Platform*  
@@ -78,7 +78,7 @@
 
 <br />
 
-![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
 ### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
