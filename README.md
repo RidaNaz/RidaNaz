@@ -17,7 +17,7 @@
 - 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
 - 📬 Reach me at: *rnaz3414@gmail.com* 
 - 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
-- ⚡ Building projects with **Next.js 15, Tailwind CSS, FastAPI, Streamlit, LangGraph, CrewAI,** and more...
+- ⚡ Building projects with **Openai SDK, Google ADK, Next.js 15, Tailwind CSS, FastAPI, LangGraph, CrewAI,** and more...
 
 </br> 
 
