@@ -60,7 +60,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
   <a href="#">
-    <img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&cache_seconds=86400" height="200px" width="450px" />
+    <img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
   </a>
 
   <!-- Streak Stats (customized to match GitHub Stats colors) -->
@@ -72,11 +72,18 @@
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <!-- Top Languages -->
   <a href="#">
-    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&cache_seconds=86400" height="200px" width="450px" />
+    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
   </a>
 </div>
 
 <br />
+
+<img src="https://github-metrics.vercel.app/api?username=RidaNaz&template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FKarachi" />
+
+<img src="https://raw.githubusercontent.com/RidaNaz/RidaNaz/output/github-contribution-grid-snake.svg" />
+
+
+
 
 ![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
