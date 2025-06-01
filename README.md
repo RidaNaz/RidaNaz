@@ -51,6 +51,9 @@
   <a href="mailto:rnaz3414@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://x.com/RidaNaz80744774">
+    <img src="https://img.shields.io/badge/X.com-171515?style=for-the-badge&logo=x&logoColor=white">
+  </a>
 </p>
 
 ---
