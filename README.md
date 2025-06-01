@@ -78,13 +78,6 @@
 
 <br />
 
-<img src="https://github-metrics.vercel.app/api?username=RidaNaz&template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FKarachi" />
-
-<img src="https://raw.githubusercontent.com/RidaNaz/RidaNaz/output/github-contribution-grid-snake.svg" />
-
-
-
-
 ![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
