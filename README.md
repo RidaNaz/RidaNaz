@@ -1,10 +1,14 @@
 ![Logo](/favicon.ico)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+Web+Apps+%26+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
 
+<div style="display: flex; gap: 10px; align-items: center;">
+
 [![committers.top badge](https://user-badge.committers.top/pakistan/RidaNaz.svg?cache-bust=1)](https://committers.top/pakistan#RidaNaz)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=CA0AB3&style=flat" alt="ridanaz" /> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=CA0AB3&style=flat)
+
+[![wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
+
+</div>
 
 ---
  
