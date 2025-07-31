@@ -4,9 +4,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/RidaNaz.svg?cache-bust=1)](https://committers.top/pakistan#RidaNaz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ridanaz&label=Profile%20views&color=CA0AB3&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20views&color=CA0AB3&style=flat)
 
-[![wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
+[![wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg?cache-bust=1)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
 
 </div>
 
