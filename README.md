@@ -1,99 +1,144 @@
-![Logo](/favicon.ico)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=27&duration=4000&pause=500&color=ffde7b&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A8Hey%2C+I'm+Rida+Naz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer+%7C+AI+Engineer%E2%9C%A8;%E2%9C%A8Building+Scalable+Web+Apps+%26+AI+Solutions%E2%9C%A8)](https://git.io/typing-svg)
-
-<div style="display: flex; gap: 10px; align-items: center;">
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/RidaNaz.svg?cache-bust=1)](https://committers.top/pakistan#RidaNaz)
-
-![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20views&color=CA0AB3&style=flat)
-
-[![wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg?cache-bust=1)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
-
-</div>
-
----
- 
-</br>
-<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" />
-
-### About Me 
-
-- 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
-- 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
-- 💻 **Full Stack Developer** | **Chatbot Developer**  
-- 🔗 Portfolio: [**Rida Naz Portfolio**](https://ridanaz.vercel.app/)  
-- 📬 Reach me at: *rida@xponentialai.dev* 
-- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
-- ⚡ Building projects with **Openai SDK, Google ADK, Next.js 15, Tailwind CSS, FastAPI, LangGraph, CrewAI,** and more...
-
-</br> 
-
-### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,fastapi,postgres,mongodb,docker" />
-</div>  
+  
+# ✨ Rida Naz ✨
+### COO @TalkifAI | FullStack Engineer @XponentialAI | AI & Web Development Expert
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=24&duration=4000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=50&lines=COO+at+TalkifAI;Full+Stack+Engineer+at+XponentialAI;AI+%26+Web+Development+Expert;Creating+Intelligent+Solutions)](https://git.io/typing-svg)
 
-<h2> 🎯 Projects </h2> 
+<div style="margin: 20px 0;">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20Views&color=FF6B9D)](https://github.com/RidaNaz)
+[![Committers Badge](https://user-badge.committers.top/pakistan/RidaNaz.svg)](https://committers.top/pakistan#RidaNaz)
+[![Wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
 
-- **Amazon Listing Automation** – For JungleMugs
-- **Voice/Calling Agent** – *For Orasurg Dental Clinic - Demo*  
-- **AI Outbound Personalized Receptionist** – *For AiCogniTech - Demo*  
-- **Healthcare AI Chatbot** – *Agentic RAG with Gemini & LangGraph*  
-- **RAG-based Tax Query Model** – *Pakistan’s Tax Regulations*  
-- **Al Wahab Clothings** – *Online Marketplace E-commerce Platform*  
-- **Custom GPT AI Assistant** – *For Educational Support*  
-
----
-
-<h2> 🌐 Connect with Me </h2> 
-
-<p align="center">
-  <a href="https://medium.com/@rnaz3414" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-171515?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ridanaz67">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rnaz3414@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/1209459986648924220">
-    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://x.com/RidaNaz80744774">
-    <img src="https://img.shields.io/badge/X.com-171515?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</p>
-
----
-
-<h2>:label: Github Stats</h2>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- GitHub Stats -->
-  <a href="#">
-    <img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
-  </a>
-
-  <!-- Streak Stats (customized to match GitHub Stats colors) -->
-  <a href="#">
-    <img alt="Rida Naz GitHub Streak" src="https://streak-stats.demolab.com?user=RidaNaz&theme=react&hide_border=true&background=0D1117&title_color=FF1493&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" height="200px" width="450px" />
-  </a>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+---
 
-  <!-- Top Languages -->
-  <a href="#">
-    <img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" />
-  </a>
 </div>
 
-<br />
+<table>
+<tr>
+<td width="60%">
 
-![Rida's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+## 👋 About Me
 
+💼 **Chief Operating Officer** at TalkifAI  
+⚡ **Full Stack Engineer** at XponentialAI  
+🎓 **Certified Agentic & Robotics AI Engineer** (PIAIC)  
+🌟 **Student Leader & CR** at Governor Sindh Initiative for IT
 
-### <h2 align="center">💡 *Transforming Ideas into Scalable Web & AI Solutions!* ✨</h2>
+### ⚡ What I Do
+- 🌐 **Web Development**: Building modern, high-performance applications with pixel-perfect UIs
+- 🤖 **AI Solutions**: Creating AI chatbots, RAG models, and automation tools for healthcare, finance, and education
+- 🛒 **E-commerce**: Feature-rich online stores with secure payment integrations (Stripe, PayPal)
+- 🎨 **UI/UX Design**: Crafting visually stunning, responsive interfaces using Figma and Framer Motion
+- ⚡ **Performance Optimization**: Ensuring speed, SEO, and accessibility for exceptional web experiences
+
+</td>
+<td width="40%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="250" alt="Coding Animation"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & AI Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainstack&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graph&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Databases & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### Current Roles
+- **Chief Operating Officer** at **TalkifAI** (July 2025 - Present)
+- **Full Stack Engineer** at **XponentialAI** (May 2025 - Present)
+
+### Key Achievements
+- 🎓 **PIAIC Certified** in Agentic & Robotics AI Engineering (2023-2025)
+- 🌟 **Student Leader & CR** at Governor Sindh Initiative for IT
+- 💻 Providing end-to-end web development solutions with pixel-perfect frontend design
+- 🤖 Specializing in AI chatbots, automation tools, and intelligent systems
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RidaNaz&theme=react&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
+
+</div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidaNaz&theme=react-dark&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridanaz67)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rnaz3414)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnaz3414@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1209459986648924220)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RidaNaz80744774)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://ridanaz.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Transforming Ideas into Scalable Web & AI Solutions"* ✨
+
+**Open to collaborations and exciting opportunities!**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
