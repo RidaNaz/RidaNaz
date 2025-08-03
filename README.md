@@ -17,9 +17,8 @@
 
 </div>
 
-<table>
-<tr>
-<td width="60%">
+<div style="display: flex; gap: 2rem;">
+<div width="60%">
 
 ## 👋 About Me
 
@@ -35,16 +34,15 @@
 - 🎨 **UI/UX Design**: Crafting visually stunning, responsive interfaces using Figma and Framer Motion
 - ⚡ **Performance Optimization**: Ensuring speed, SEO, and accessibility for exceptional web experiences
 
-</td>
-<td width="40%">
+</div>
+<div width="40%">
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 70vh;">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="250" alt="Coding Animation"/>
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 ---
 
