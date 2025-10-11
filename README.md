@@ -8,8 +8,9 @@
 <div style="margin: 20px 0;">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20Views&color=FF6B9D)](https://github.com/RidaNaz)
-[![Committers Badge](https://user-badge.committers.top/pakistan/RidaNaz.svg)](https://committers.top/pakistan#RidaNaz)
 [![Wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
+
+<!-- [![Committers Badge](https://user-badge.committers.top/pakistan/RidaNaz.svg)](https://committers.top/pakistan#RidaNaz) -->
 
 </div>
 
