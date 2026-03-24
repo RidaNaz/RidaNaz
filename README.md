@@ -128,6 +128,8 @@
 
 <div align="center">
 
+### 💡 *"Transforming Ideas into Scalable Web & AI Solutions"* ✨
+
 **Open to collaborations and exciting opportunities!**
 
 </div>
