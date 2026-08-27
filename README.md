@@ -3,8 +3,6 @@
 # ✨ Rida Naz ✨
 ### COO @TalkifAI | FullStack Engineer @XponentialAI | AI & Web Development Expert
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=24&duration=4000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=50&lines=COO+at+TalkifAI;Full+Stack+Engineer+at+XponentialAI;AI+%26+Web+Development+Expert;Creating+Intelligent+Solutions)](https://git.io/typing-svg)
-
 <div style="margin: 20px 0;">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20Views&color=FF6B9D)](https://github.com/RidaNaz)
