@@ -10,6 +10,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=RidaNaz&label=Profile%20Views&color=FF6B9D)](https://github.com/RidaNaz)
 [![Wakatime](https://wakatime.com/badge/user/c3415ee8-60ff-405b-8b77-432a134f33b0.svg)](https://wakatime.com/@c3415ee8-60ff-405b-8b77-432a134f33b0)
 
+<a href="https://gitroll.io/profile/urstMXxwv56R8HhUxqr0OAkpinsi1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/urstMXxwv56R8HhUxqr0OAkpinsi1?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 <!-- [![Committers Badge](https://user-badge.committers.top/pakistan/RidaNaz.svg)](https://committers.top/pakistan#RidaNaz) -->
 
 </div>
@@ -19,24 +21,6 @@
 ---
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" height="230" alt="Coding Animation"/>
-
-## 👋 About Me
-
-💼 **Chief Operating Officer** at **TalkifAI**
-⚡ **Full Stack Engineer** at **XponentialAI**
-🎓 **Certified Agentic & Robotics AI Engineer** — PIAIC (2023–2025)
-🌟 **Student Leader & CR** — Governor Sindh Initiative for IT
-
-<br/>
-
-### ⚡ What I Build
-- 🌐 **Full Stack Apps** — Modern, high-performance web applications with pixel-perfect UIs
-- 🤖 **AI Solutions** — Chatbots, RAG pipelines, and intelligent automation for healthcare, finance & education
-- 🛒 **E-commerce Platforms** — Feature-rich stores with Stripe & PayPal integrations
-- 🎨 **UI/UX Design** — Responsive, visually stunning interfaces with Figma & Framer Motion
-- ⚡ **Performance** — Speed, SEO, and accessibility optimization
-
-<br clear="right"/>
 
 ---
 
@@ -114,7 +98,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridanaz67)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://ridanaz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://ridanaz.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rnaz3414)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RidaNaz80744774)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1209459986648924220)
